@@ -1,0 +1,12 @@
+Se você possui o XAMPP instalado em seu computador, você certamente
+já conta com o phpMyAdmin. 
+
+Siga as seguintes etapas:
+1. Cole a pasta "Paper CRUD 2" dentro da pasta htdocs do xampp
+Ex:(C:\xampp\htdocs\Paper CRUD 2).
+2. Inicie o XAMPP e ative o Apache e o MySQL.
+3. Em seu browser, acesse a URL <http://localhost:80/phpmyadmin/>.
+4. Crie um banco de dados com o nome "paper-crud-php-bootstrap". 
+5.Importe o arquivo "paper-crud-php-bootstrap.sql" para dentro do banco de dados criado.
+
+6. Para acessar o projeto Web "Paper 5º Semestre - CRUD PHP, MySQL, Bootstrap", deve-se iniciar o XAMPP e acessar a URL <http://localhost:80/Paper CRUD 2/>.
